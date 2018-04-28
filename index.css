@@ -1,0 +1,12 @@
+.todo-list-div {
+  top : -16px;
+}
+.list-group-item {
+  height: 50px;
+}
+.btn-remove {
+  float: right;
+}
+.hidden {
+  display: none;
+}
